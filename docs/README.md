@@ -22,5 +22,6 @@ Quality assurance is interwoven throughout each phase. All changes are covered b
 - <a>Release &amp; Deployment Guide</a>
 - <a>Retrospective &amp; Continuous Improvement</a>
 - <a>Roles &amp; Personas</a>
+- <a>Role Handoff Checklist</a>
 
 Use these links to dive deeper into each process area or as reference during day-to-day project delivery. If you have improvements or questions, please contribute or raise an issue!
